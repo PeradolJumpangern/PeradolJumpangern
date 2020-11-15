@@ -22,7 +22,7 @@ I like to play game.
 
 Facebook : Peradol Jumpangern
 
-instagram : Peradol_tp 
+instagram : Peradol_dg
 
 Line : peradol.j
 
