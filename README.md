@@ -6,7 +6,6 @@
 
 Name : Peradol JUmpangern
 Birth : 2004 / 12 / 26
-My main language is dart .
 I'm from Thailand.
 I want to be Game Developers 
 
