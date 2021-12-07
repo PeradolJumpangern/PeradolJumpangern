@@ -7,15 +7,6 @@
 Name : Peradol JUmpangern
 Birth : 2004 / 12 / 26
 I'm from Thailand.
-I want to be Game Developers 
-
-
-### My hobby 
-
-I like to take a photo.
-I like to read a book.
-I like to play game.
-
 
 ## My soical Media
 
